@@ -5,6 +5,6 @@ public class StudyGit {
     public static void main(String[] args){
 
         System.out.println("cool1");
-        System.out.println("Tahir");
+        System.out.println("Ata");
     }
 }
