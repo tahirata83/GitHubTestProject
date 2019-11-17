@@ -1,0 +1,5 @@
+# these folders are not needed
+.idea
+out
+# also this file
+*.iml
