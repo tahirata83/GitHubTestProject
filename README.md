@@ -6,4 +6,3 @@
 * item 2
 * item3
 
-[google.com](google.com)
